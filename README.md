@@ -8,3 +8,8 @@ After learning JavaScript, I added a simple script that makes different sections
 - Basic HTML structure for personal info, education, and experience
 - Custom CSS styling to enhance visual appeal
 - Simple JavaScript hover effect for zoom-in animation
+
+## 🔗
+
+View it here: https://wandile-intern.github.io/Mini-CV-JavaScript/
+
