@@ -29,4 +29,39 @@ h2 {
 }
 
 
+/* Dark Mode Toggle */
+#toggleMode {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #f5f5f5;
+  color: #333;
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Dark Mode Styles */
+body.dark {
+  background: #222 !important;
+}
+
+body.dark header h1,
+body.dark section h2,
+body.dark section p,
+body.dark section li,
+body.dark section,
+body.dark footer{
+  color: #f5f5f5;
+  background: #222;
+}
+
+body.dark #toggleMode {
+  background: #333;
+  color: #fff;
+}
+
+
+
+
 
